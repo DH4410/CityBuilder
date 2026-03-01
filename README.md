@@ -29,18 +29,18 @@ CityBuilder/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CityBuilder.git
+   git clone https://github.com/DH4410/CityBuilder.git
    ```
 2. Open `index.html` in your browser.
 
 ## Controls
 
-| Action       | Input                        |
-|-------------|------------------------------|
-| Pan         | Arrow keys / WASD / drag     |
-| Zoom        | Scroll wheel                 |
-| Place       | Left click                   |
-| Cancel      | Right click / Escape         |
+| Action | Input                    |
+| ------ | ------------------------ |
+| Pan    | Arrow keys / WASD / drag |
+| Zoom   | Scroll wheel             |
+| Place  | Left click               |
+| Cancel | Right click / Escape     |
 
 ## License
 
